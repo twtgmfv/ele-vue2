@@ -1,6 +1,8 @@
 # ele
 
-> test
+> 如果你是看网上Vue构建ele的教程的同学，这个项目就可能是你需要的了。
+> 因为它踩到了Vue1到Vue2的各种坑，还好我走过来了。
+> 比如：uve-router(路由) transition(小球动画) 全局通信(bus)等
 
 ## Build Setup
 
@@ -15,4 +17,6 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+github:https://github.com/twtgmfv/ele-vue2.git
+要星，要星，要星
+谢谢！
