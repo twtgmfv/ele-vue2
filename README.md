@@ -16,7 +16,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-github:https://github.com/twtgmfv/ele-vue2.git
-要星，要星，要星
-谢谢！
